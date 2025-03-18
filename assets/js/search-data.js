@@ -387,15 +387,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-beom-won-the-magoon-research-excellence-award-by-college-of-engineering-purdue-university-trophy",
-          title: 'Beom won the Magoon Research Excellence Award by College of Engineering, Purdue University...',
+            },},{id: "news-sparkles-webpage-has-been-created",
+          title: ':sparkles: Webpage has been created.',
           description: "",
-          section: "News",},{id: "news-announcement-2",
-          title: 'Announcement_2',
+          section: "News",},{id: "news-trophy-beom-won-the-breakwell-student-award-at-the-35th-aas-aiaa-space-flight-mechanics-meeting-kaua-i-hi",
+          title: ':trophy: Beom won the Breakwell Student Award at the 35th AAS/AIAA Space Flight...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "projects-project-1",
+          section: "News",},{id: "news-trophy-beom-won-the-magoon-research-excellence-award-by-college-of-engineering-purdue-university",
+          title: ':trophy: Beom won the Magoon Research Excellence Award by College of Engineering, Purdue...',
+          description: "",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
