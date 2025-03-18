@@ -7,7 +7,7 @@ first_name: Beom
 middle_name:
 last_name: Park
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -318,6 +318,7 @@ filtered_bibtex_keywords:
     preview,
     selected,
     slides,
+    talk,
     supp,
     video,
     website,

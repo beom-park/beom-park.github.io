@@ -1,12 +1,12 @@
 ---
 layout: post
 # title: Webpage
-date: 2025-03-17 00:00:00-0400
-inline: false
+date: 2025-01-01 00:00:00-0400
+inline: true
 related_posts: false
 ---
 
-Webpage has been created. :sparkles:
+:sparkles: Webpage has been created. 
 
 <!-- Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
 
