@@ -383,7 +383,7 @@ ninja.data = [{
             },},{id: "news-sparkles-webpage-has-been-created",
           title: ':sparkles: Webpage has been created.',
           description: "",
-          section: "News",},{id: "news-trophy-beom-won-the-breakwell-student-award-at-the-35th-aas-aiaa-space-flight-mechanics-meeting-kaua-i-hi",
+          section: "News",},{id: "news-trophy-beom-won-the-breakwell-student-award-at-the-35th-aas-aiaa-space-flight-mechanics-meeting-kaua-i-hi-for-a-paper-coauthored-by-rohith-reddy-sanaga-and-prof-kathleen-howell",
           title: ':trophy: Beom won the Breakwell Student Award at the 35th AAS/AIAA Space Flight...',
           description: "",
           section: "News",},{id: "news-trophy-beom-won-the-magoon-research-excellence-award-by-college-of-engineering-purdue-university",
