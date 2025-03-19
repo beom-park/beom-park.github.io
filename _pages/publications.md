@@ -22,7 +22,7 @@ sections:
 <!-- text: "Books and Book chapters" -->
 <!-- _pages/publications.md -->
 <div class="publications">
-    <a href="https://scholar.google.com/citations?user=8LqmCjAAAAAJ" style="font-size: 1.5rem;"><b>Google Scholar Profile</b></a>
+    <a href="https://scholar.google.com/citations?user=GPYQNbEAAAAJ" style="font-size: 1.5rem;"><b>Google Scholar Profile</b></a>
     <p></p>
 
 {% include bib_search.liquid %}
