@@ -29,4 +29,4 @@ latest_posts:
 
 Hi! I'm a PhD candidate in School of Aeronautics and Astronautics at Purdue University. I am a member of the <a href="https://engineering.purdue.edu/people/kathleen.howell.1/index.html">Multi-Body Dynamics Research Group</a>, advised by Dr. Kathleen Howell. Before coming to U.S., I completed my B.Sc. at Seoul National University, majoring in Aerospace Engineering. 
 
-My current academic interests include: 
+My current academic interests include spacecraft trajectory design and optimization as well as multi-body dynamics.
