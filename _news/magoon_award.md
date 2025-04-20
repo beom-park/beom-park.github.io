@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:trophy: Beom won the Magoon Research Excellence Award by College of Engineering, Purdue University 
+:trophy: Beom won the <a href="https://engineering.purdue.edu/Engr/People/Awards/Graduate/ptRecipientListing?group_id=237384&show_sub_groups=1">Magoon Research Excellence Award</a> by College of Engineering, Purdue University 

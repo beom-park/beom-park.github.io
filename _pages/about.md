@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>ARMS 3181</p>
-    <p>601 Stadium St.</p>
+    <p>701 W Stadium St.</p>
     <p>West Lafayette, IN, 47906</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -29,4 +29,4 @@ latest_posts:
 
 Hi! I'm a PhD candidate in School of Aeronautics and Astronautics at Purdue University. I am a member of the <a href="https://engineering.purdue.edu/people/kathleen.howell.1/index.html">Multi-Body Dynamics Research Group</a>, advised by Dr. Kathleen Howell. Before coming to U.S., I completed my B.Sc. at Seoul National University, majoring in Aerospace Engineering. 
 
-My current academic interests include spacecraft trajectory design and optimization as well as multi-body dynamics.
+My current academic interests include astrodynamics centered around  spacecraft trajectory design and optimization as well as multi-body dynamics.
