@@ -13,7 +13,7 @@ sections:
   - bibquery: "@article"
     text: "Journal articles"
   - bibquery: "@inproceedings"
-    text: "Conference Proceedings"
+    text: "Conference Proceedings (Work in Progress!)"
   - bibquery: "@misc|@thesis"
     text: "Thesis"
 ---
