@@ -27,6 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I'm a PhD candidate in School of Aeronautics and Astronautics at Purdue University. I am a member of the <a href="https://engineering.purdue.edu/people/kathleen.howell.1/index.html">Multi-Body Dynamics Research Group</a>, advised by Dr. Kathleen Howell. Before coming to U.S., I completed my B.Sc. at Seoul National University, majoring in Aerospace Engineering. 
+Hi! I am currently a postdoctoral researcher at the Korea Advanced Institute of Science and Technology (KAIST), working with Dr. Jaemyung Ahn at the <a href="https://sai.kaist.ac.kr">Strategic Aerospace Initiative (SAI)</a>. I received my M.S. and Ph.D. in the School of Aeronautics and Astronautics at Purdue University, advised by Prof. Kathleen Howell of the <a href="https://engineering.purdue.edu/people/kathleen.howell.1/index.html">Multi-Body Dynamics Research Group</a>. Prior to my graduate studies in the U.S., I earned my B.Sc. in Aerospace Engineering from Seoul National University, Korea. 
 
-My current academic interests include astrodynamics centered around  spacecraft trajectory design and optimization as well as multi-body dynamics.
+My research focuses on astrodynamics, particularly spacecraft trajectory design, optimization, and multi-body dynamics. 
+
+Thanks for visiting—feel free to reach out if you’d like to connect about research, ideas, or potential collaborations!
