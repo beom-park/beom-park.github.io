@@ -26,10 +26,10 @@ module Jekyll
     end
 
     def render(context)
-      # article_id = context[@article_id.strip]
-      # scholar_id = context[@scholar_id.strip]
-      article_id = @article_id.strip
-      scholar_id = @scholar_id.strip
+      article_id = context[@article_id.strip]
+      scholar_id = context[@scholar_id.strip]
+      # article_id = @article_id.strip
+      # scholar_id = @scholar_id.strip
       article_url = "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=#{scholar_id}&citation_for_view=#{scholar_id}:#{article_id}"
 
       begin
