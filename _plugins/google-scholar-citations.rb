@@ -70,7 +70,8 @@ module Jekyll
 
       rescue Exception => e
         # Handle any errors that may occur during fetching
-        citation_count = "N/A"
+        # citation_count = "N/A"
+        citation_count = "#{e.class}: #{e.message}"
 
         # Print the error message including the exception class and message
         puts "Error fetching citation count for #{article_id} in #{article_url}: #{e.class} - #{e.message}"
