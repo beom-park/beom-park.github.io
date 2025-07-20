@@ -26,8 +26,10 @@ module Jekyll
     end
 
     def render(context)
-      article_id = context[@article_id.strip]
-      scholar_id = context[@scholar_id.strip]
+      # article_id = context[@article_id.strip]
+      # scholar_id = context[@scholar_id.strip]
+      article_id = @article_id.strip
+      scholar_id = @scholar_id.strip
       article_url = "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=#{scholar_id}&citation_for_view=#{scholar_id}:#{article_id}"
 
       begin
@@ -70,8 +72,8 @@ module Jekyll
 
       rescue Exception => e
         # Handle any errors that may occur during fetching
-        # citation_count = "N/A"
-        citation_count = "#{e.class}: #{e.message}"
+        citation_count = "N/A"
+        # citation_count = "#{e.class}: #{e.message}"
 
         # Print the error message including the exception class and message
         puts "Error fetching citation count for #{article_id} in #{article_url}: #{e.class} - #{e.message}"
