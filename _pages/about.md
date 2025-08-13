@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Korea Advanced Institute of Science and Technology
+subtitle: Purdue University
 
 profile:
   align: right
@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I am currently a postdoctoral researcher at the Korea Advanced Institute of Science and Technology (KAIST), working with Prof. Jaemyung Ahn at the <a href="https://sai.kaist.ac.kr">Strategic Aerospace Initiative (SAI)</a>. I received my M.S. and Ph.D. in the School of Aeronautics and Astronautics at Purdue University, advised by Prof. Kathleen Howell of the <a href="https://engineering.purdue.edu/people/kathleen.howell.1/index.html">Multi-Body Dynamics Research Group</a>. Prior to my graduate studies in the U.S., I earned my B.Sc. in Aerospace Engineering from Seoul National University, Korea. 
+Hi! I am currently the Apollo 11 postdoctoral fellow at Purdue University. I received my M.S. and Ph.D. in the School of Aeronautics and Astronautics at Purdue University, advised by Prof. Kathleen Howell of the <a href="https://engineering.purdue.edu/people/kathleen.howell.1/index.html">Multi-Body Dynamics Research Group</a>. Prior to my graduate studies in the U.S., I earned my B.Sc. in Aerospace Engineering from Seoul National University, Korea. I was a visiting scholar at the Korea Advanced Institute of Science and Technology (KAIST), working with Prof. Jaemyung Ahn at the <a href="https://sai.kaist.ac.kr">Strategic Aerospace Initiative (SAI)</a>.
 
 My research focuses on astrodynamics, particularly spacecraft trajectory design, optimization, and multi-body dynamics. 
 
